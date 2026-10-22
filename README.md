@@ -9,7 +9,7 @@ different temperatures, so pooling them lets the test condition pass for chemist
 a real effect, because the strength against ductility compromise that everyone expects is only visible inside
 one test condition.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniswaramp/low-alloy-steel-tensile-properties/blob/main/steel_tensile_analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daniswaramp/steel-low-alloy-tensile/blob/main/steel_tensile_analysis.ipynb)
 
 ## What the analysis found
 
